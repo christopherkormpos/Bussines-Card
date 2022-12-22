@@ -12,7 +12,7 @@ export default function Footer() {
             <a href="https://www.instagram.com/xristoforosk._/">
                 <img src={instagram} alt="instagram-icon" className='instagram' />
             </a>
-            <a href="https://github.com/christopherkorbos?tab=overview&from=2022-04-01&to=2022-04-30">
+            <a href="https://github.com/christopherkormpos">
                 <img src={github} alt="github-icon" className='github' />
             </a>
         </footer>

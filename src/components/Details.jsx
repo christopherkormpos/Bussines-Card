@@ -8,11 +8,11 @@ export default function Details() {
         <h5>Frontend Developer</h5>
         <p className='little-email'>christopher.korbos@gmail.com</p>
         <div className='forms'>
-            <form action="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSlDJXcspqJmbxcrzSZqRtlbvTLPJdtjtpZGNWJRfSMNQllgqmZJWQTjwXJBSLHnkRgV">
+            <form action="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfnZvhffWTHpbCZwQpTzXVLnzVjGwQtdKkWbmhRRgvkrrmpSGbsJpJfRGJdQQnFFkZcrZg">
                 <button className='email'>
                     <img src={email} alt='email'></img>Email</button>
             </form>
-            <form action="https://www.linkedin.com/in/christopher-korbos-27808b194/">
+            <form action="https://www.linkedin.com/in/christopher-kormpos-27808b194/">
                 <button className='LinkedIn'>
                     <img src={LinkedIn} alt="linkedin-icon" />
                     LinkedIn</button>
